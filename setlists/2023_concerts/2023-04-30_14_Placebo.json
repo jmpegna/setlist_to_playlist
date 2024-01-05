@@ -1,0 +1,139 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "23b87893",
+            "versionId": "g3b97948c",
+            "eventDate": "30-04-2023",
+            "lastUpdated": "2023-05-03T03:00:53.662+0000",
+            "artist": {
+                "mbid": "847e8284-8582-4b0e-9c26-b042a4f49e57",
+                "name": "Placebo",
+                "sortName": "Placebo",
+                "disambiguation": "UK alternative rock band",
+                "url": "https://www.setlist.fm/setlists/placebo-3bd698cc.html"
+            },
+            "venue": {
+                "id": "33d038d5",
+                "name": "Roadrunner",
+                "city": {
+                    "id": "4930956",
+                    "name": "Boston",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.3584308,
+                        "long": -71.0597732
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/roadrunner-boston-ma-usa-33d038d5.html"
+            },
+            "tour": {
+                "name": "2023 North American Tour"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Forever Chemicals"
+                            },
+                            {
+                                "name": "Beautiful James"
+                            },
+                            {
+                                "name": "Scene of the Crime"
+                            },
+                            {
+                                "name": "Hugz"
+                            },
+                            {
+                                "name": "Happy Birthday in the Sky"
+                            },
+                            {
+                                "name": "Bionic"
+                            },
+                            {
+                                "name": "Twin Demons"
+                            },
+                            {
+                                "name": "Surrounded by Spies"
+                            },
+                            {
+                                "name": "Chemtrails"
+                            },
+                            {
+                                "name": "Slave to the Wage"
+                            },
+                            {
+                                "name": "Went Missing"
+                            },
+                            {
+                                "name": "Too Many Friends"
+                            },
+                            {
+                                "name": "Sad White Reggae"
+                            },
+                            {
+                                "name": "For What It's Worth"
+                            },
+                            {
+                                "name": "Try Better Next Time"
+                            },
+                            {
+                                "name": "Song to Say Goodbye"
+                            },
+                            {
+                                "name": "Come Undone"
+                            },
+                            {
+                                "name": "The Bitter End"
+                            },
+                            {
+                                "name": "Infra-red"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Shout",
+                                "cover": {
+                                    "mbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de",
+                                    "name": "Tears for Fears",
+                                    "sortName": "Tears for Fears",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/tears-for-fears-63d6ba37.html"
+                                }
+                            },
+                            {
+                                "name": "Fix Yourself"
+                            },
+                            {
+                                "name": "Running Up That Hill (A Deal With God)",
+                                "cover": {
+                                    "mbid": "4b585938-f271-45e2-b19a-91c634b5e396",
+                                    "name": "Kate Bush",
+                                    "sortName": "Bush, Kate",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/kate-bush-23d6a4bf.html"
+                                },
+                                "info": "Ending transitioned into motif of Infra-Red"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "info": "Setlist incomplete and out of order",
+            "url": "https://www.setlist.fm/setlist/placebo/2023/roadrunner-boston-ma-23b87893.html"
+        }
+    ]
+}

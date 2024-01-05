@@ -1,0 +1,127 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "13ba8d51",
+            "versionId": "g4bef6fc6",
+            "eventDate": "18-02-2023",
+            "lastUpdated": "2023-02-19T05:18:24.600+0000",
+            "artist": {
+                "mbid": "a3f36ee1-c236-49eb-b598-078c788781d8",
+                "name": "The White Buffalo",
+                "sortName": "White Buffalo, The",
+                "disambiguation": "Jake Smith americana project",
+                "url": "https://www.setlist.fm/setlists/the-white-buffalo-23d34023.html"
+            },
+            "venue": {
+                "id": "4bd60fca",
+                "name": "Brooklyn Bowl",
+                "city": {
+                    "id": "5110302",
+                    "name": "Brooklyn",
+                    "state": "New York",
+                    "stateCode": "NY",
+                    "coords": {
+                        "lat": 40.65,
+                        "long": -73.95
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/brooklyn-bowl-brooklyn-ny-usa-4bd60fca.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Not Today"
+                            },
+                            {
+                                "name": "Winter Act 2"
+                            },
+                            {
+                                "name": "Problem Solution"
+                            },
+                            {
+                                "name": "One Lone Night"
+                            },
+                            {
+                                "name": "Sycamore"
+                            },
+                            {
+                                "name": "John Jameson"
+                            },
+                            {
+                                "name": "Kingdom For A Fool"
+                            },
+                            {
+                                "name": "Into the Sun"
+                            },
+                            {
+                                "name": "C'mon Come Up Come Out"
+                            },
+                            {
+                                "name": "Joe and Jolene"
+                            },
+                            {
+                                "name": "Come Join the Murder",
+                                "cover": {
+                                    "mbid": "718c0945-e353-4167-b213-eb10cac9fbaa",
+                                    "name": "The White Buffalo with The Forest Rangers",
+                                    "sortName": "White Buffalo, The with Forest Rangers, The",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/the-white-buffalo-with-the-forest-rangers-1bdf8d4c.html"
+                                }
+                            },
+                            {
+                                "name": "Love Song #1"
+                            },
+                            {
+                                "name": "Rocky"
+                            },
+                            {
+                                "name": "Set My Body Free"
+                            },
+                            {
+                                "name": "Stunt Driver"
+                            },
+                            {
+                                "name": "The Whistler"
+                            },
+                            {
+                                "name": "I Got You"
+                            },
+                            {
+                                "name": "Oh Darlin' What Have I Done"
+                            },
+                            {
+                                "name": "The Pilot"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Wish It Was True"
+                            },
+                            {
+                                "name": "Damned"
+                            },
+                            {
+                                "name": "How the West Was Won"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/the-white-buffalo/2023/brooklyn-bowl-brooklyn-ny-13ba8d51.html"
+        }
+    ]
+}

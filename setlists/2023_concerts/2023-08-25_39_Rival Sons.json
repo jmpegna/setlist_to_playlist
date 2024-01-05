@@ -1,0 +1,67 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "ba5752e",
+            "versionId": "g1b9995a4",
+            "eventDate": "25-08-2023",
+            "lastUpdated": "2023-09-03T23:00:42.760+0000",
+            "artist": {
+                "mbid": "2aff9c10-2145-4851-a656-898aeb434ad5",
+                "name": "Rival Sons",
+                "sortName": "Rival Sons",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/rival-sons-1bd21118.html"
+            },
+            "venue": {
+                "id": "3bd4b0fc",
+                "name": "Bank of New Hampshire Pavilion at Meadowbrook",
+                "city": {
+                    "id": "5086544",
+                    "name": "Gilford",
+                    "state": "New Hampshire",
+                    "stateCode": "NH",
+                    "coords": {
+                        "lat": 43.5475771,
+                        "long": -71.4067385
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-usa-3bd4b0fc.html"
+            },
+            "tour": {
+                "name": "Darkfighter"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Feral Roots"
+                            },
+                            {
+                                "name": "Sweet Life"
+                            },
+                            {
+                                "name": "Pressure and Time"
+                            },
+                            {
+                                "name": "Open My Eyes"
+                            },
+                            {
+                                "name": "Torture"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/rival-sons/2023/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-ba5752e.html"
+        }
+    ]
+}

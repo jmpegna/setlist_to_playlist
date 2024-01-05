@@ -5,16 +5,16 @@
     "total": 1,
     "setlist": [
         {
-            "id": "13bd5501",
-            "versionId": "g3befb8bc",
+            "id": "bbd619e",
+            "versionId": "g5befbf2c",
             "eventDate": "08-02-2023",
-            "lastUpdated": "2023-02-09T11:47:26.885+0000",
+            "lastUpdated": "2023-02-09T05:09:30.387+0000",
             "artist": {
-                "mbid": "0ff93a82-dc2f-4a6f-93c3-e260868b6566",
-                "name": "Red",
-                "sortName": "Red",
-                "disambiguation": "US Christian rock band",
-                "url": "https://www.setlist.fm/setlists/red-bd6999e.html"
+                "mbid": "49a6efb9-9b52-44ce-8167-7cb1c21a8c45",
+                "name": "Mammoth WVH",
+                "sortName": "Mammoth WVH",
+                "disambiguation": "Wolfgang van Halen",
+                "url": "https://www.setlist.fm/setlists/mammoth-wvh-bf43142.html"
             },
             "venue": {
                 "id": "33d038d5",
@@ -40,28 +40,34 @@
                     {
                         "song": [
                             {
-                                "name": "Death of Me"
+                                "name": "Mammoth"
                             },
                             {
-                                "name": "Faceless"
+                                "name": "Mr. Ed"
                             },
                             {
-                                "name": "Let It Burn"
+                                "name": "Epiphany"
                             },
                             {
-                                "name": "Already Over"
+                                "name": "Stone"
                             },
                             {
-                                "name": "Feed the Machine"
+                                "name": "Think It Over"
                             },
                             {
-                                "name": "Breathe Into Me"
+                                "name": "Distance"
+                            },
+                            {
+                                "name": "You're to Blame"
+                            },
+                            {
+                                "name": "Don't Back Down"
                             }
                         ]
                     }
                 ]
             },
-            "url": "https://www.setlist.fm/setlist/red/2023/roadrunner-boston-ma-13bd5501.html"
+            "url": "https://www.setlist.fm/setlist/mammoth-wvh/2023/roadrunner-boston-ma-bbd619e.html"
         }
     ]
 }

@@ -1,0 +1,155 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "6bbbae16",
+            "versionId": "g3392f86d",
+            "eventDate": "17-03-2023",
+            "lastUpdated": "2023-06-02T19:59:51.328+0000",
+            "artist": {
+                "mbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sortName": "Killers, The",
+                "disambiguation": "US rock band",
+                "url": "https://www.setlist.fm/setlists/the-killers-23d6e097.html"
+            },
+            "venue": {
+                "id": "53d61fb1",
+                "name": "Mohegan Sun Arena",
+                "city": {
+                    "id": "4844602",
+                    "name": "Uncasville",
+                    "state": "Connecticut",
+                    "stateCode": "CT",
+                    "coords": {
+                        "lat": 41.4345426,
+                        "long": -72.1097996
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/mohegan-sun-arena-uncasville-ct-usa-53d61fb1.html"
+            },
+            "tour": {
+                "name": "Imploding the Mirage"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Luck Be a Lady",
+                                "tape": true,
+                                "cover": {
+                                    "mbid": "0a0688ca-72c2-46d6-a3b9-b297e7dad6dc",
+                                    "name": "Frank Loesser",
+                                    "sortName": "Loesser, Frank",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/frank-loesser-4bd787f6.html"
+                                },
+                                "info": "Frank Sinatra version"
+                            },
+                            {
+                                "name": "Sam's Town"
+                            },
+                            {
+                                "name": "Enterlude"
+                            },
+                            {
+                                "name": "Mr. Brightside"
+                            },
+                            {
+                                "name": "The Way It Was"
+                            },
+                            {
+                                "name": "Shot at the Night"
+                            },
+                            {
+                                "name": "Run for Cover"
+                            },
+                            {
+                                "name": "Smile Like You Mean It"
+                            },
+                            {
+                                "name": "Runaway Horses"
+                            },
+                            {
+                                "name": "In Another Life"
+                            },
+                            {
+                                "name": "Go Your Own Way",
+                                "cover": {
+                                    "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                                    "name": "Fleetwood Mac",
+                                    "sortName": "Fleetwood Mac",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/fleetwood-mac-7bd6bef0.html"
+                                }
+                            },
+                            {
+                                "name": "Somebody Told Me"
+                            },
+                            {
+                                "name": "For Reasons Unknown",
+                                "info": "Fan named Andrew played drums"
+                            },
+                            {
+                                "name": "boy"
+                            },
+                            {
+                                "name": "A Dustland Fairytale"
+                            },
+                            {
+                                "name": "Where the Streets Have No Name",
+                                "cover": {
+                                    "mbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+                                    "name": "U2",
+                                    "sortName": "U2",
+                                    "disambiguation": "Irish rock band",
+                                    "url": "https://www.setlist.fm/setlists/u2-23d6b80f.html"
+                                },
+                                "info": "Played as an homage to St. Patrick\u2019s Day; only Brandon on vocals and Ted on guitar"
+                            },
+                            {
+                                "name": "Runaways"
+                            },
+                            {
+                                "name": "Read My Mind"
+                            },
+                            {
+                                "name": "Dying Breed"
+                            },
+                            {
+                                "name": "Caution",
+                                "info": "with \"Rut\" segue"
+                            },
+                            {
+                                "name": "All These Things That I've Done"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Spaceman"
+                            },
+                            {
+                                "name": "Human"
+                            },
+                            {
+                                "name": "When You Were Young"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/the-killers/2023/mohegan-sun-arena-uncasville-ct-6bbbae16.html"
+        }
+    ]
+}

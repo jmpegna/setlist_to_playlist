@@ -1,0 +1,80 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "13a745b9",
+            "versionId": "g539f77f1",
+            "eventDate": "19-07-2023",
+            "lastUpdated": "2023-07-20T17:08:34.068+0000",
+            "artist": {
+                "mbid": "b6ae9414-234f-4c89-8346-801ac2cd30cb",
+                "name": "Kim Dracula",
+                "sortName": "Dracula, Kim",
+                "disambiguation": "Australian TikTok celebrity and metal musician",
+                "url": "https://www.setlist.fm/setlists/kim-dracula-73f41a31.html"
+            },
+            "venue": {
+                "id": "4bd4e71a",
+                "name": "Xfinity Center",
+                "city": {
+                    "id": "4943021",
+                    "name": "Mansfield",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.0334326,
+                        "long": -71.2189405
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/xfinity-center-mansfield-ma-usa-4bd4e71a.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "A Gradual Decline in Morale"
+                            },
+                            {
+                                "name": "Superhero"
+                            },
+                            {
+                                "name": "Seventy Thorns"
+                            },
+                            {
+                                "name": "Drown"
+                            },
+                            {
+                                "name": "Killdozer"
+                            },
+                            {
+                                "name": "Make Me Famous"
+                            },
+                            {
+                                "name": "Paparazzi",
+                                "cover": {
+                                    "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+                                    "name": "Lady Gaga",
+                                    "sortName": "Lady Gaga",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/lady-gaga-1bd665bc.html"
+                                }
+                            },
+                            {
+                                "name": "Land Of The Sun"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/kim-dracula/2023/xfinity-center-mansfield-ma-13a745b9.html"
+        }
+    ]
+}

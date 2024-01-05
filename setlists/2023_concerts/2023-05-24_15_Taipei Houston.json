@@ -1,0 +1,83 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "1bb91dac",
+            "versionId": "g4395dbbf",
+            "eventDate": "24-05-2023",
+            "lastUpdated": "2023-05-25T15:31:41.873+0000",
+            "artist": {
+                "mbid": "05d2b882-2448-43f3-86fe-01dd1c728714",
+                "name": "Taipei Houston",
+                "sortName": "Taipei Houston",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/taipei-houston-3bf18094.html"
+            },
+            "venue": {
+                "id": "3bd4b0fc",
+                "name": "Bank of New Hampshire Pavilion at Meadowbrook",
+                "city": {
+                    "id": "5086544",
+                    "name": "Gilford",
+                    "state": "New Hampshire",
+                    "stateCode": "NH",
+                    "coords": {
+                        "lat": 43.5475771,
+                        "long": -71.4067385
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-usa-3bd4b0fc.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "As the Sun Sets"
+                            },
+                            {
+                                "name": "Respecter"
+                            },
+                            {
+                                "name": "Susie Thin Lips"
+                            },
+                            {
+                                "name": "Hypocrite"
+                            },
+                            {
+                                "name": "Eleanor Rigby",
+                                "cover": {
+                                    "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                                    "name": "The Beatles",
+                                    "sortName": "Beatles, The",
+                                    "disambiguation": "UK rock band, \u201cThe Fab Four\u201d",
+                                    "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                                }
+                            },
+                            {
+                                "name": "Frequency"
+                            },
+                            {
+                                "name": "Hello From the Bottom"
+                            },
+                            {
+                                "name": "The Middle"
+                            },
+                            {
+                                "name": "Drop Song"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/taipei-houston/2023/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-1bb91dac.html"
+        }
+    ]
+}

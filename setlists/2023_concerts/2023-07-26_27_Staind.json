@@ -1,0 +1,94 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "5ba4fb98",
+            "versionId": "g39c3d73",
+            "eventDate": "26-07-2023",
+            "lastUpdated": "2023-07-27T07:47:47.946+0000",
+            "artist": {
+                "mbid": "777a21a8-0d0f-4cf3-86b4-65bc0eba5649",
+                "name": "Staind",
+                "sortName": "Staind",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/staind-33d6bcc9.html"
+            },
+            "venue": {
+                "id": "4bd4e71a",
+                "name": "Xfinity Center",
+                "city": {
+                    "id": "4943021",
+                    "name": "Mansfield",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.0334326,
+                        "long": -71.2189405
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/xfinity-center-mansfield-ma-usa-4bd4e71a.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Lowest in Me"
+                            },
+                            {
+                                "name": "Not Again"
+                            },
+                            {
+                                "name": "Just Go"
+                            },
+                            {
+                                "name": "Home"
+                            },
+                            {
+                                "name": "Eyes Wide Open"
+                            },
+                            {
+                                "name": "Fade"
+                            },
+                            {
+                                "name": "Something to Remind You"
+                            },
+                            {
+                                "name": "Epiphany"
+                            },
+                            {
+                                "name": "Right Here"
+                            },
+                            {
+                                "name": "Outside"
+                            },
+                            {
+                                "name": "Wannabe"
+                            },
+                            {
+                                "name": "So Far Away"
+                            },
+                            {
+                                "name": "For You"
+                            },
+                            {
+                                "name": "It's Been Awhile"
+                            },
+                            {
+                                "name": "Mudshovel"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/staind/2023/xfinity-center-mansfield-ma-5ba4fb98.html"
+        }
+    ]
+}

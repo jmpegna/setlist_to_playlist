@@ -1,0 +1,149 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "5ba3a368",
+            "versionId": "g5b8fabf0",
+            "eventDate": "25-09-2023",
+            "lastUpdated": "2023-11-20T16:31:14.182+0000",
+            "artist": {
+                "mbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419",
+                "name": "M\u00e5neskin",
+                "sortName": "M\u00e5neskin",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/maneskin-3bcd7ccc.html"
+            },
+            "venue": {
+                "id": "3bd61414",
+                "name": "TD Garden",
+                "city": {
+                    "id": "4930956",
+                    "name": "Boston",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.3584308,
+                        "long": -71.0597732
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/td-garden-boston-ma-usa-3bd61414.html"
+            },
+            "tour": {
+                "name": "RUSH! World Tour"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "name": "Main Stage",
+                        "song": [
+                            {
+                                "name": "DON'T WANNA SLEEP"
+                            },
+                            {
+                                "name": "GOSSIP"
+                            },
+                            {
+                                "name": "ZITTI E BUONI"
+                            },
+                            {
+                                "name": "HONEY (ARE U COMING?)"
+                            },
+                            {
+                                "name": "SUPERMODEL"
+                            },
+                            {
+                                "name": "CORALINE"
+                            },
+                            {
+                                "name": "Beggin'",
+                                "cover": {
+                                    "mbid": "3f64d38c-1ad4-4fb0-941e-7f4b51d4c9e6",
+                                    "name": "The Four Seasons",
+                                    "sortName": "Four Seasons, The",
+                                    "disambiguation": "aka Frankie Valli and the Four Seasons",
+                                    "url": "https://www.setlist.fm/setlists/the-four-seasons-3bd69800.html"
+                                }
+                            },
+                            {
+                                "name": "THE DRIVER"
+                            },
+                            {
+                                "name": "FOR YOUR LOVE"
+                            },
+                            {
+                                "name": "GASOLINE"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Acoustic Stage",
+                        "song": [
+                            {
+                                "name": "TIMEZONE"
+                            },
+                            {
+                                "name": "IF NOT FOR YOU"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Main Stage",
+                        "song": [
+                            {
+                                "name": "Drum and bass solo"
+                            },
+                            {
+                                "name": "I WANNA BE YOUR SLAVE"
+                            },
+                            {
+                                "name": "MAMMAMIA"
+                            },
+                            {
+                                "name": "HUMBLE.",
+                                "cover": {
+                                    "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                                    "name": "Kendrick Lamar",
+                                    "sortName": "Lamar, Kendrick",
+                                    "disambiguation": "US rapper",
+                                    "url": "https://www.setlist.fm/setlists/kendrick-lamar-bd2f5d6.html"
+                                }
+                            },
+                            {
+                                "name": "IN NOME DEL PADRE"
+                            },
+                            {
+                                "name": "BLA BLA BLA"
+                            },
+                            {
+                                "name": "KOOL KIDS"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Guitar Solo"
+                            },
+                            {
+                                "name": "THE LONELIEST"
+                            },
+                            {
+                                "name": "I WANNA BE YOUR SLAVE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "info": "enc",
+            "url": "https://www.setlist.fm/setlist/maneskin/2023/td-garden-boston-ma-5ba3a368.html"
+        }
+    ]
+}

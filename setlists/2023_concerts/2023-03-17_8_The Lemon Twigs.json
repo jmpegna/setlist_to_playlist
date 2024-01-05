@@ -1,0 +1,76 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "73bb96a9",
+            "versionId": "g73ea1e89",
+            "eventDate": "17-03-2023",
+            "lastUpdated": "2023-03-19T03:35:57.287+0000",
+            "artist": {
+                "mbid": "f32d94e8-8d55-4ee2-9077-53d1c024a03b",
+                "name": "The Lemon Twigs",
+                "sortName": "Lemon Twigs, The",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/the-lemon-twigs-3c0add3.html"
+            },
+            "venue": {
+                "id": "53d61fb1",
+                "name": "Mohegan Sun Arena",
+                "city": {
+                    "id": "4844602",
+                    "name": "Uncasville",
+                    "state": "Connecticut",
+                    "stateCode": "CT",
+                    "coords": {
+                        "lat": 41.4345426,
+                        "long": -72.1097996
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/mohegan-sun-arena-uncasville-ct-usa-53d61fb1.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "The One"
+                            },
+                            {
+                                "name": "In My Head"
+                            },
+                            {
+                                "name": "Live in Favor of Tomorrow"
+                            },
+                            {
+                                "name": "Ghost Run Free"
+                            },
+                            {
+                                "name": "I Wanna Prove to You"
+                            },
+                            {
+                                "name": "Any Time of Day"
+                            },
+                            {
+                                "name": "The Queen of My School"
+                            },
+                            {
+                                "name": "Foolin' Around"
+                            },
+                            {
+                                "name": "Leather Together"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/the-lemon-twigs/2023/mohegan-sun-arena-uncasville-ct-73bb96a9.html"
+        }
+    ]
+}

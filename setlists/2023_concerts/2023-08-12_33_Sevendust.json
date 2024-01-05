@@ -1,0 +1,79 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "4ba5af66",
+            "versionId": "g5b991318",
+            "eventDate": "12-08-2023",
+            "lastUpdated": "2023-09-08T14:44:22.659+0000",
+            "artist": {
+                "mbid": "52b9e109-44a0-45eb-a197-226c4abab232",
+                "name": "Sevendust",
+                "sortName": "Sevendust",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/sevendust-13d6995d.html"
+            },
+            "venue": {
+                "id": "2bd08096",
+                "name": "Premier Theater at Foxwoods",
+                "city": {
+                    "id": "cu:aa1993be-06c7-11e6-b736-22000bb3106b",
+                    "name": "Mashantucket",
+                    "state": "Connecticut",
+                    "stateCode": "CT",
+                    "coords": {
+                        "lat": 41.4703,
+                        "long": -71.9515
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/premier-theater-at-foxwoods-mashantucket-ct-usa-2bd08096.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Face to Face"
+                            },
+                            {
+                                "name": "Denial"
+                            },
+                            {
+                                "name": "Crucified"
+                            },
+                            {
+                                "name": "Karma"
+                            },
+                            {
+                                "name": "Fence"
+                            },
+                            {
+                                "name": "Disgrace"
+                            },
+                            {
+                                "name": "Angel's Son"
+                            },
+                            {
+                                "name": "Black"
+                            },
+                            {
+                                "name": "Everything"
+                            },
+                            {
+                                "name": "Shine"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/sevendust/2023/premier-theater-at-foxwoods-mashantucket-ct-4ba5af66.html"
+        }
+    ]
+}

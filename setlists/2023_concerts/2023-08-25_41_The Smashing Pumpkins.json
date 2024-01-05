@@ -1,0 +1,134 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "2ba5187e",
+            "versionId": "g4b991386",
+            "eventDate": "25-08-2023",
+            "lastUpdated": "2023-09-08T15:24:51.646+0000",
+            "artist": {
+                "mbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+                "name": "The Smashing Pumpkins",
+                "sortName": "Smashing Pumpkins, The",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/the-smashing-pumpkins-23d6e0ab.html"
+            },
+            "venue": {
+                "id": "3bd4b0fc",
+                "name": "Bank of New Hampshire Pavilion at Meadowbrook",
+                "city": {
+                    "id": "5086544",
+                    "name": "Gilford",
+                    "state": "New Hampshire",
+                    "stateCode": "NH",
+                    "coords": {
+                        "lat": 43.5475771,
+                        "long": -71.4067385
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-usa-3bd4b0fc.html"
+            },
+            "tour": {
+                "name": "The World Is A Vampire"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Atum",
+                                "tape": true
+                            },
+                            {
+                                "name": "The Everlasting Gaze"
+                            },
+                            {
+                                "name": "Doomsday Clock"
+                            },
+                            {
+                                "name": "Once in a Lifetime",
+                                "cover": {
+                                    "mbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
+                                    "name": "Talking Heads",
+                                    "sortName": "Talking Heads",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/talking-heads-3bd6b808.html"
+                                }
+                            },
+                            {
+                                "name": "Today"
+                            },
+                            {
+                                "name": "Perfect"
+                            },
+                            {
+                                "name": "Disarm"
+                            },
+                            {
+                                "name": "The Celestials"
+                            },
+                            {
+                                "name": "Purple Blood"
+                            },
+                            {
+                                "name": "Ava Adore"
+                            },
+                            {
+                                "name": "Tonight, Tonight",
+                                "info": "James and Billy acoustic"
+                            },
+                            {
+                                "name": "Bullet With Butterfly Wings"
+                            },
+                            {
+                                "name": "This Time"
+                            },
+                            {
+                                "name": "Spellbinding"
+                            },
+                            {
+                                "name": "Hubble Bubble (Toil and Trouble)",
+                                "cover": {
+                                    "mbid": "06b6f280-8787-4a3d-8ab6-c6487b465320",
+                                    "name": "Manfred Mann",
+                                    "sortName": "Manfred Mann",
+                                    "disambiguation": "English band",
+                                    "url": "https://www.setlist.fm/setlists/manfred-mann-2bd6ac42.html"
+                                }
+                            },
+                            {
+                                "name": "Jellybelly"
+                            },
+                            {
+                                "name": "Empires"
+                            },
+                            {
+                                "name": "Hummer"
+                            },
+                            {
+                                "name": "Beguiled"
+                            },
+                            {
+                                "name": "1979"
+                            },
+                            {
+                                "name": "Cherub Rock"
+                            },
+                            {
+                                "name": "Zero"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/the-smashing-pumpkins/2023/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-2ba5187e.html"
+        }
+    ]
+}

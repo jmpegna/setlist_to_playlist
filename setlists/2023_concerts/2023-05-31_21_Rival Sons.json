@@ -1,0 +1,100 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "53b95765",
+            "versionId": "g1b921dd8",
+            "eventDate": "31-05-2023",
+            "lastUpdated": "2023-06-05T13:50:47.949+0000",
+            "artist": {
+                "mbid": "2aff9c10-2145-4851-a656-898aeb434ad5",
+                "name": "Rival Sons",
+                "sortName": "Rival Sons",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/rival-sons-1bd21118.html"
+            },
+            "venue": {
+                "id": "53d63bdd",
+                "name": "The Palladium",
+                "city": {
+                    "id": "4956184",
+                    "name": "Worcester",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.2625932,
+                        "long": -71.8022934
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/the-palladium-worcester-ma-usa-53d63bdd.html"
+            },
+            "tour": {
+                "name": "Darkfighter"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Mirrors"
+                            },
+                            {
+                                "name": "Nobody Wants to Die"
+                            },
+                            {
+                                "name": "Pressure and Time"
+                            },
+                            {
+                                "name": "Rapture"
+                            },
+                            {
+                                "name": "Torture"
+                            },
+                            {
+                                "name": "Where I've Been"
+                            },
+                            {
+                                "name": "Open My Eyes"
+                            },
+                            {
+                                "name": "Electric Man"
+                            },
+                            {
+                                "name": "Feral Roots"
+                            },
+                            {
+                                "name": "Too Bad"
+                            },
+                            {
+                                "name": "Shooting Stars",
+                                "info": "Acoustic"
+                            },
+                            {
+                                "name": "Face of Light"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Darkside"
+                            },
+                            {
+                                "name": "Do Your Worst"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/rival-sons/2023/the-palladium-worcester-ma-53b95765.html"
+        }
+    ]
+}

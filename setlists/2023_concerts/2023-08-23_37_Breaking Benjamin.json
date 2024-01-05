@@ -1,0 +1,88 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "63a5327b",
+            "versionId": "g39b69ff",
+            "eventDate": "23-08-2023",
+            "lastUpdated": "2023-08-24T07:39:41.872+0000",
+            "artist": {
+                "mbid": "854a1807-025b-42a8-ba8c-2a39717f1d25",
+                "name": "Breaking Benjamin",
+                "sortName": "Breaking Benjamin",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/breaking-benjamin-5bd6bfc0.html"
+            },
+            "venue": {
+                "id": "3bd4b0fc",
+                "name": "Bank of New Hampshire Pavilion at Meadowbrook",
+                "city": {
+                    "id": "5086544",
+                    "name": "Gilford",
+                    "state": "New Hampshire",
+                    "stateCode": "NH",
+                    "coords": {
+                        "lat": 43.5475771,
+                        "long": -71.4067385
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-usa-3bd4b0fc.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Failure"
+                            },
+                            {
+                                "name": "Breath"
+                            },
+                            {
+                                "name": "Until the End"
+                            },
+                            {
+                                "name": "Red Cold River"
+                            },
+                            {
+                                "name": "Polyamorous"
+                            },
+                            {
+                                "name": "Blow Me Away"
+                            },
+                            {
+                                "name": "Simple Design"
+                            },
+                            {
+                                "name": "Follow"
+                            },
+                            {
+                                "name": "Sooner or Later"
+                            },
+                            {
+                                "name": "So Cold"
+                            },
+                            {
+                                "name": "Dance With the Devil"
+                            },
+                            {
+                                "name": "I Will Not Bow"
+                            },
+                            {
+                                "name": "The Diary of Jane"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/breaking-benjamin/2023/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-63a5327b.html"
+        }
+    ]
+}

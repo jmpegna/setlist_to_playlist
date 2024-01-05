@@ -1,0 +1,102 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "4ba4fb9a",
+            "versionId": "gb9c3d72",
+            "eventDate": "26-07-2023",
+            "lastUpdated": "2023-07-27T07:48:18.673+0000",
+            "artist": {
+                "mbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2",
+                "name": "Godsmack",
+                "sortName": "Godsmack",
+                "disambiguation": "American metal band",
+                "url": "https://www.setlist.fm/setlists/godsmack-13d69911.html"
+            },
+            "venue": {
+                "id": "4bd4e71a",
+                "name": "Xfinity Center",
+                "city": {
+                    "id": "4943021",
+                    "name": "Mansfield",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.0334326,
+                        "long": -71.2189405
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/xfinity-center-mansfield-ma-usa-4bd4e71a.html"
+            },
+            "tour": {
+                "name": "Best of Times World Tour"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "When Legends Rise"
+                            },
+                            {
+                                "name": "Cryin' Like a Bitch!!"
+                            },
+                            {
+                                "name": "1000hp"
+                            },
+                            {
+                                "name": "You and I"
+                            },
+                            {
+                                "name": "Soul on Fire"
+                            },
+                            {
+                                "name": "Something Different"
+                            },
+                            {
+                                "name": "What About Me"
+                            },
+                            {
+                                "name": "Awake"
+                            },
+                            {
+                                "name": "Bulletproof"
+                            },
+                            {
+                                "name": "Voodoo"
+                            },
+                            {
+                                "name": "Batalla de los tambores"
+                            },
+                            {
+                                "name": "Whatever"
+                            },
+                            {
+                                "name": "Surrender"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Under Your Scars"
+                            },
+                            {
+                                "name": "I Stand Alone"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/godsmack/2023/xfinity-center-mansfield-ma-4ba4fb9a.html"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "7ba13e0c",
+            "versionId": "g238ce8f7",
+            "eventDate": "15-11-2023",
+            "lastUpdated": "2023-12-01T14:31:22.302+0000",
+            "artist": {
+                "mbid": "49a6efb9-9b52-44ce-8167-7cb1c21a8c45",
+                "name": "Mammoth WVH",
+                "sortName": "Mammoth WVH",
+                "disambiguation": "Wolfgang van Halen",
+                "url": "https://www.setlist.fm/setlists/mammoth-wvh-bf43142.html"
+            },
+            "venue": {
+                "id": "53d3eb01",
+                "name": "Big Night Live",
+                "city": {
+                    "id": "4930956",
+                    "name": "Boston",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.3584308,
+                        "long": -71.0597732
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/big-night-live-boston-ma-usa-53d3eb01.html"
+            },
+            "tour": {
+                "name": "Mammoth II"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Right?"
+                            },
+                            {
+                                "name": "Mammoth"
+                            },
+                            {
+                                "name": "Miles Above Me"
+                            },
+                            {
+                                "name": "Like a Pastime"
+                            },
+                            {
+                                "name": "Optimist"
+                            },
+                            {
+                                "name": "Stone"
+                            },
+                            {
+                                "name": "I'm Alright"
+                            },
+                            {
+                                "name": "Epiphany"
+                            },
+                            {
+                                "name": "Think It Over"
+                            },
+                            {
+                                "name": "Distance",
+                                "info": "Wolfgang solo acoustic; preceded by a snippet of Wonderwall by Oasis"
+                            },
+                            {
+                                "name": "Waiting"
+                            },
+                            {
+                                "name": "You're to Blame"
+                            },
+                            {
+                                "name": "Feel",
+                                "info": "preceded by a snippet of Lateralus by Tool"
+                            },
+                            {
+                                "name": "Take a Bow"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Another Celebration at the End of the World"
+                            },
+                            {
+                                "name": "Don't Back Down",
+                                "info": "preceded by band introductions"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/mammoth-wvh/2023/big-night-live-boston-ma-7ba13e0c.html"
+        }
+    ]
+}

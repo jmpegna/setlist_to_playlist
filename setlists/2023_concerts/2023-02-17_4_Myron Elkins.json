@@ -1,0 +1,87 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "bba8d56",
+            "versionId": "g438ccb9b",
+            "eventDate": "18-02-2023",
+            "lastUpdated": "2023-12-02T16:31:57.247+0000",
+            "artist": {
+                "mbid": "a5708af4-9d5f-48e1-a6f3-12b55c68fde1",
+                "name": "Myron Elkins",
+                "sortName": "Elkins, Myron",
+                "disambiguation": "Americana Artist from Michigan",
+                "url": "https://www.setlist.fm/setlists/myron-elkins-23fab403.html"
+            },
+            "venue": {
+                "id": "4bd60fca",
+                "name": "Brooklyn Bowl",
+                "city": {
+                    "id": "5110302",
+                    "name": "Brooklyn",
+                    "state": "New York",
+                    "stateCode": "NY",
+                    "coords": {
+                        "lat": 40.65,
+                        "long": -73.95
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/brooklyn-bowl-brooklyn-ny-usa-4bd60fca.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Mr. Breadwinner"
+                            },
+                            {
+                                "name": "Cutting Onions"
+                            },
+                            {
+                                "name": "Walkin' Back to Georgia",
+                                "cover": {
+                                    "mbid": "fcfa9543-e113-4ef9-9ef6-455ba4cbe7af",
+                                    "name": "Jim Croce",
+                                    "sortName": "Croce, Jim",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/jim-croce-6bd6b282.html"
+                                }
+                            },
+                            {
+                                "name": "Wrong Side of the River"
+                            },
+                            {
+                                "name": "Tryin' to Get to You",
+                                "cover": {
+                                    "mbid": "5981f5a8-dbc1-48d3-b3c8-76058feec6b2",
+                                    "name": "The Eagles",
+                                    "sortName": "Eagles, The",
+                                    "disambiguation": "50s US doo wop/R&B vocal group",
+                                    "url": "https://www.setlist.fm/setlists/the-eagles-53d4d3a5.html"
+                                }
+                            },
+                            {
+                                "name": "Life's Got a Cost"
+                            },
+                            {
+                                "name": "Lesley"
+                            },
+                            {
+                                "name": "Hands to Myself"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/myron-elkins/2023/brooklyn-bowl-brooklyn-ny-bba8d56.html"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "7bb91290",
+            "versionId": "g73920a69",
+            "eventDate": "26-05-2023",
+            "lastUpdated": "2023-06-06T12:06:32.636+0000",
+            "artist": {
+                "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                "name": "Foo Fighters",
+                "sortName": "Foo Fighters",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+            },
+            "venue": {
+                "id": "7bd54e38",
+                "name": "Harvard Athletic Complex",
+                "city": {
+                    "id": "4930956",
+                    "name": "Boston",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.3584308,
+                        "long": -71.0597732
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/harvard-athletic-complex-boston-ma-usa-7bd54e38.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Rescued"
+                            },
+                            {
+                                "name": "Walk"
+                            },
+                            {
+                                "name": "No Son of Mine",
+                                "info": "with Black Sabbath's \"Paranoid\" riff in the middle"
+                            },
+                            {
+                                "name": "Learn to Fly"
+                            },
+                            {
+                                "name": "This Is a Call"
+                            },
+                            {
+                                "name": "Times Like These",
+                                "info": "Dave solo into full band"
+                            },
+                            {
+                                "name": "Under You"
+                            },
+                            {
+                                "name": "The Pretender"
+                            },
+                            {
+                                "name": "The Sky Is a Neighborhood"
+                            },
+                            {
+                                "name": "Breakout"
+                            },
+                            {
+                                "name": "My Hero",
+                                "info": "Dave solo into full band"
+                            },
+                            {
+                                "name": "All My Life"
+                            },
+                            {
+                                "name": "Shame Shame",
+                                "info": "with Van Halen\u2019s \u201cAin't Talkin' 'bout Love\u201d riff as outro",
+                                "with": {
+                                    "mbid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6",
+                                    "name": "Violet Grohl",
+                                    "sortName": "Grohl, Violet",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/violet-grohl-73f7768d.html"
+                                }
+                            },
+                            {
+                                "name": "Rope",
+                                "with": {
+                                    "mbid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6",
+                                    "name": "Violet Grohl",
+                                    "sortName": "Grohl, Violet",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/violet-grohl-73f7768d.html"
+                                }
+                            },
+                            {
+                                "name": "Cold Day in the Sun",
+                                "info": "Dave solo electric; dedicated to Taylor\u2019s family and Taylor"
+                            },
+                            {
+                                "name": "I'll Stick Around",
+                                "with": {
+                                    "mbid": "67e6fb62-6a5b-4fa9-8879-fa2528eff606",
+                                    "name": "Oliver Shane Hawkins",
+                                    "sortName": "Hawkins, Shane",
+                                    "disambiguation": "son of Taylor Hawkins",
+                                    "url": "https://www.setlist.fm/setlists/oliver-shane-hawkins-3f041d7.html"
+                                }
+                            },
+                            {
+                                "name": "Best of You"
+                            },
+                            {
+                                "name": "Monkey Wrench"
+                            },
+                            {
+                                "name": "Aurora"
+                            },
+                            {
+                                "name": "Everlong"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "info": "",
+            "url": "https://www.setlist.fm/setlist/foo-fighters/2023/harvard-athletic-complex-boston-ma-7bb91290.html"
+        }
+    ]
+}

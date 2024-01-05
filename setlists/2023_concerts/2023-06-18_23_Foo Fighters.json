@@ -1,0 +1,134 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "5ba62328",
+            "versionId": "g5b9e7790",
+            "eventDate": "18-06-2023",
+            "lastUpdated": "2023-07-12T01:53:23.923+0000",
+            "artist": {
+                "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                "name": "Foo Fighters",
+                "sortName": "Foo Fighters",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+            },
+            "venue": {
+                "id": "2bd6181e",
+                "name": "Great Stage Park",
+                "city": {
+                    "id": "4639224",
+                    "name": "Manchester",
+                    "state": "Tennessee",
+                    "stateCode": "TN",
+                    "coords": {
+                        "lat": 35.4817432,
+                        "long": -86.0885993
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/great-stage-park-manchester-tn-usa-2bd6181e.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "All My Life"
+                            },
+                            {
+                                "name": "No Son of Mine",
+                                "info": "with snippets of Metallica's \"Enter Sandman\" and Black Sabbath's \"Paranoid\""
+                            },
+                            {
+                                "name": "Rescued"
+                            },
+                            {
+                                "name": "Walk"
+                            },
+                            {
+                                "name": "The Pretender"
+                            },
+                            {
+                                "name": "Learn to Fly"
+                            },
+                            {
+                                "name": "Times Like These",
+                                "info": "Dave and Rami into full band"
+                            },
+                            {
+                                "name": "Under You"
+                            },
+                            {
+                                "name": "Breakout"
+                            },
+                            {
+                                "name": "The Sky Is a Neighborhood"
+                            },
+                            {
+                                "name": "Sabotage / Whip It / March of the Pigs / Haven't Met You Yet",
+                                "info": "Beastie Boys / Devo / Nine Inch Nails / Michael Bubl\u00e9 covers; band introductions"
+                            },
+                            {
+                                "name": "My Hero",
+                                "info": "Dave solo into full band",
+                                "with": {
+                                    "mbid": "b4b5b5a7-feff-47d0-9458-83d0d135a692",
+                                    "name": "Hayley Williams",
+                                    "sortName": "Williams, Hayley",
+                                    "disambiguation": "Paramore vocalist",
+                                    "url": "https://www.setlist.fm/setlists/hayley-williams-5bd60b38.html"
+                                }
+                            },
+                            {
+                                "name": "This Is a Call",
+                                "info": "Dedicated to Paramore"
+                            },
+                            {
+                                "name": "Shame Shame",
+                                "with": {
+                                    "mbid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6",
+                                    "name": "Violet Grohl",
+                                    "sortName": "Grohl, Violet",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/violet-grohl-73f7768d.html"
+                                }
+                            },
+                            {
+                                "name": "Show Me How",
+                                "with": {
+                                    "mbid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6",
+                                    "name": "Violet Grohl",
+                                    "sortName": "Grohl, Violet",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/violet-grohl-73f7768d.html"
+                                }
+                            },
+                            {
+                                "name": "Monkey Wrench"
+                            },
+                            {
+                                "name": "Best of You"
+                            },
+                            {
+                                "name": "Aurora",
+                                "info": "Dedicated to Taylor Hawkins"
+                            },
+                            {
+                                "name": "Everlong"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "info": "What Stage; streamed live on Hulu",
+            "url": "https://www.setlist.fm/setlist/foo-fighters/2023/great-stage-park-manchester-tn-5ba62328.html"
+        }
+    ]
+}

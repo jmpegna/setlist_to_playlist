@@ -1,0 +1,119 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "1bba7140",
+            "versionId": "g393398f",
+            "eventDate": "07-03-2023",
+            "lastUpdated": "2023-06-13T14:19:02.378+0000",
+            "artist": {
+                "mbid": "24ea074c-59cc-41c5-a5de-f68c2952965f",
+                "name": "Paolo Nutini",
+                "sortName": "Nutini, Paolo",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/paolo-nutini-73d62e31.html"
+            },
+            "venue": {
+                "id": "13d285a1",
+                "name": "Royale",
+                "city": {
+                    "id": "4930956",
+                    "name": "Boston",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.3584308,
+                        "long": -71.0597732
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/royale-boston-ma-usa-13d285a1.html"
+            },
+            "tour": {
+                "name": "Last Night In The Bittersweet"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Afterneath"
+                            },
+                            {
+                                "name": "Lose It"
+                            },
+                            {
+                                "name": "Scream (Funk My Life Up)"
+                            },
+                            {
+                                "name": "Let Me Down Easy"
+                            },
+                            {
+                                "name": "Acid Eyes"
+                            },
+                            {
+                                "name": "Stranded Words (Interlude)"
+                            },
+                            {
+                                "name": "Radio"
+                            },
+                            {
+                                "name": "Heart Filled Up"
+                            },
+                            {
+                                "name": "Through the Echoes"
+                            },
+                            {
+                                "name": "Coming Up Easy",
+                                "info": "Acoustic"
+                            },
+                            {
+                                "name": "Cherry Blossom"
+                            },
+                            {
+                                "name": "Petrified in Love"
+                            },
+                            {
+                                "name": "Pencil Full of Lead"
+                            },
+                            {
+                                "name": "Jenny Don't Be Hasty / Teenage Kicks / New Shoes"
+                            },
+                            {
+                                "name": "Take Me Take Mine"
+                            },
+                            {
+                                "name": "Candy"
+                            },
+                            {
+                                "name": "Everywhere"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Iron Sky"
+                            },
+                            {
+                                "name": "Shine a Light"
+                            },
+                            {
+                                "name": "Writer",
+                                "info": "Solo acoustic"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/paolo-nutini/2023/royale-boston-ma-1bba7140.html"
+        }
+    ]
+}

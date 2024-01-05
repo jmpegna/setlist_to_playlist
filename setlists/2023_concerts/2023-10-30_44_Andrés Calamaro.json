@@ -1,0 +1,144 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "53a06391",
+            "versionId": "g33803429",
+            "eventDate": "30-10-2023",
+            "lastUpdated": "2023-10-31T15:08:59.926+0000",
+            "artist": {
+                "mbid": "5a092e7c-faa9-45d0-88c6-052205804e6c",
+                "name": "Andr\u00e9s Calamaro",
+                "sortName": "Calamaro, Andr\u00e9s",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/andres-calamaro-53d6eb91.html"
+            },
+            "venue": {
+                "id": "7bd26aac",
+                "name": "Lynn Memorial Auditorium",
+                "city": {
+                    "id": "4942807",
+                    "name": "Lynn",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.466763,
+                        "long": -70.9494939
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/lynn-memorial-auditorium-lynn-ma-usa-7bd26aac.html"
+            },
+            "tour": {
+                "name": "Tour 2023"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Output-Input"
+                            },
+                            {
+                                "name": "Cuando no est\u00e1s"
+                            },
+                            {
+                                "name": "A los ojos",
+                                "cover": {
+                                    "mbid": "af84ee9f-534a-4f7f-844b-188ba1c47e87",
+                                    "name": "Los Rodr\u00edguez",
+                                    "sortName": "Rodr\u00edguez, Los",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/los-rodriguez-4bd6eb9e.html"
+                                }
+                            },
+                            {
+                                "name": "Verdades afiladas"
+                            },
+                            {
+                                "name": "Me arde / Dead Flowers"
+                            },
+                            {
+                                "name": "Rehenes"
+                            },
+                            {
+                                "name": "La parte de adelante /  Loco / Corte de hurac\u00e1n"
+                            },
+                            {
+                                "name": "My mafia"
+                            },
+                            {
+                                "name": "Los aviones"
+                            },
+                            {
+                                "name": "All You Need Is Pop"
+                            },
+                            {
+                                "name": "Estadio Azteca"
+                            },
+                            {
+                                "name": "Mi gin tonic"
+                            },
+                            {
+                                "name": "Lunes por la madrugada",
+                                "cover": {
+                                    "mbid": "4a8caef2-56e4-4358-a66a-f2346bd7dfa5",
+                                    "name": "Los Abuelos de la Nada",
+                                    "sortName": "Abuelos de la Nada, Los",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/los-abuelos-de-la-nada-bd6d972.html"
+                                }
+                            },
+                            {
+                                "name": "Alta suciedad"
+                            },
+                            {
+                                "name": "Maradona"
+                            },
+                            {
+                                "name": "Tuyo siempre"
+                            },
+                            {
+                                "name": "Mi enfermedad / Todav\u00eda una canci\u00f3n de amor / Te quiero igual / Dulce condena"
+                            },
+                            {
+                                "name": "Sin documentos",
+                                "cover": {
+                                    "mbid": "af84ee9f-534a-4f7f-844b-188ba1c47e87",
+                                    "name": "Los Rodr\u00edguez",
+                                    "sortName": "Rodr\u00edguez, Los",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/los-rodriguez-4bd6eb9e.html"
+                                }
+                            },
+                            {
+                                "name": "Flaca"
+                            },
+                            {
+                                "name": "Paloma"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Cr\u00edmenes perfectos"
+                            },
+                            {
+                                "name": "Los chicos"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/andres-calamaro/2023/lynn-memorial-auditorium-lynn-ma-53a06391.html"
+        }
+    ]
+}

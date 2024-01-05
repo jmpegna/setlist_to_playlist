@@ -1,0 +1,128 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "2bb91cfe",
+            "versionId": "g2395cc9f",
+            "eventDate": "24-05-2023",
+            "lastUpdated": "2023-05-26T00:32:28.610+0000",
+            "artist": {
+                "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                "name": "Foo Fighters",
+                "sortName": "Foo Fighters",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+            },
+            "venue": {
+                "id": "3bd4b0fc",
+                "name": "Bank of New Hampshire Pavilion at Meadowbrook",
+                "city": {
+                    "id": "5086544",
+                    "name": "Gilford",
+                    "state": "New Hampshire",
+                    "stateCode": "NH",
+                    "coords": {
+                        "lat": 43.5475771,
+                        "long": -71.4067385
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-usa-3bd4b0fc.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Rescued",
+                                "info": "live debut"
+                            },
+                            {
+                                "name": "Walk"
+                            },
+                            {
+                                "name": "No Son of Mine",
+                                "info": "with Black Sabbath\u2019s \u201cParanoid\u201d riff in the middle"
+                            },
+                            {
+                                "name": "Learn to Fly"
+                            },
+                            {
+                                "name": "Times Like These",
+                                "info": "Dave solo into full band"
+                            },
+                            {
+                                "name": "Under You",
+                                "info": "live debut"
+                            },
+                            {
+                                "name": "The Pretender"
+                            },
+                            {
+                                "name": "But Here We Are",
+                                "info": "live debut"
+                            },
+                            {
+                                "name": "Breakout"
+                            },
+                            {
+                                "name": "The Sky Is a Neighborhood"
+                            },
+                            {
+                                "name": "My Hero",
+                                "info": "Dave solo into full band; no outro"
+                            },
+                            {
+                                "name": "This Is a Call"
+                            },
+                            {
+                                "name": "All My Life"
+                            },
+                            {
+                                "name": "Nothing at All",
+                                "info": "live debut"
+                            },
+                            {
+                                "name": "Shame Shame",
+                                "with": {
+                                    "mbid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6",
+                                    "name": "Violet Grohl",
+                                    "sortName": "Grohl, Violet",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/violet-grohl-73f7768d.html"
+                                }
+                            },
+                            {
+                                "name": "These Days"
+                            },
+                            {
+                                "name": "Cold Day in the Sun",
+                                "info": "dedicated to Taylor Hawkins; first time since 2018; Dave on vocals; solo acoustic"
+                            },
+                            {
+                                "name": "Monkey Wrench"
+                            },
+                            {
+                                "name": "Best of You"
+                            },
+                            {
+                                "name": "Aurora"
+                            },
+                            {
+                                "name": "Everlong"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "info": "First headline show with Josh Freese on drums as a touring member.",
+            "url": "https://www.setlist.fm/setlist/foo-fighters/2023/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-2bb91cfe.html"
+        }
+    ]
+}

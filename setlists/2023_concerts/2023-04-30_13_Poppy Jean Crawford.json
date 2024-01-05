@@ -1,0 +1,78 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "2ba3945e",
+            "versionId": "g538ebba5",
+            "eventDate": "16-05-2023",
+            "lastUpdated": "2023-11-12T04:54:46.130+0000",
+            "artist": {
+                "mbid": "34b98711-430c-4e35-8395-cdd056ac6a34",
+                "name": "Poppy Jean Crawford",
+                "sortName": "Crawford, Poppy Jean",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/poppy-jean-crawford-7bf7cef8.html"
+            },
+            "venue": {
+                "id": "7bd40254",
+                "name": "Lola\u2019s Room at the Crystal Ballroom",
+                "city": {
+                    "id": "5746545",
+                    "name": "Portland",
+                    "state": "Oregon",
+                    "stateCode": "OR",
+                    "coords": {
+                        "lat": 45.5234515,
+                        "long": -122.6762071
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/lolas-room-at-the-crystal-ballroom-portland-or-usa-7bd40254.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Same Old Tricks"
+                            },
+                            {
+                                "name": "The Take Over"
+                            },
+                            {
+                                "name": "Jonsies Gonesies"
+                            },
+                            {
+                                "name": "Head Over Heels",
+                                "cover": {
+                                    "mbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de",
+                                    "name": "Tears for Fears",
+                                    "sortName": "Tears for Fears",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/tears-for-fears-63d6ba37.html"
+                                }
+                            },
+                            {
+                                "name": "Hands Up"
+                            },
+                            {
+                                "name": "Pink Cheeks"
+                            },
+                            {
+                                "name": "Get Down"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "info": "Setlist incomplete and out of order",
+            "url": "https://www.setlist.fm/setlist/poppy-jean-crawford/2023/lolas-room-at-the-crystal-ballroom-portland-or-2ba3945e.html"
+        }
+    ]
+}

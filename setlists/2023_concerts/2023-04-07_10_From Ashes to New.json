@@ -1,0 +1,70 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "2bbb6026",
+            "versionId": "g63e80e6b",
+            "eventDate": "07-04-2023",
+            "lastUpdated": "2023-04-08T14:21:51.351+0000",
+            "artist": {
+                "mbid": "66baa549-ec7d-410f-88bf-d4f9bbb21890",
+                "name": "From Ashes to New",
+                "sortName": "From Ashes to New",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/from-ashes-to-new-33da5869.html"
+            },
+            "venue": {
+                "id": "bd059be",
+                "name": "Total Mortgage Arena",
+                "city": {
+                    "id": "5282804",
+                    "name": "Bridgeport",
+                    "state": "Connecticut",
+                    "stateCode": "CT",
+                    "coords": {
+                        "lat": 41.1670412,
+                        "long": -73.2048348
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/total-mortgage-arena-bridgeport-ct-usa-bd059be.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Nightmare"
+                            },
+                            {
+                                "name": "Heartache"
+                            },
+                            {
+                                "name": "Hate Me Too"
+                            },
+                            {
+                                "name": "My Name"
+                            },
+                            {
+                                "name": "Panic"
+                            },
+                            {
+                                "name": "Crazy"
+                            },
+                            {
+                                "name": "Through It All"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/from-ashes-to-new/2023/total-mortgage-arena-bridgeport-ct-2bbb6026.html"
+        }
+    ]
+}

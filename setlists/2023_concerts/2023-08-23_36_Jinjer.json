@@ -1,0 +1,67 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "6ba5327a",
+            "versionId": "gb9b6902",
+            "eventDate": "23-08-2023",
+            "lastUpdated": "2023-08-24T07:36:24.651+0000",
+            "artist": {
+                "mbid": "51b37017-859c-465e-8810-2d2dd41a401e",
+                "name": "Jinjer",
+                "sortName": "Jinjer",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/jinjer-6bdc3aaa.html"
+            },
+            "venue": {
+                "id": "3bd4b0fc",
+                "name": "Bank of New Hampshire Pavilion at Meadowbrook",
+                "city": {
+                    "id": "5086544",
+                    "name": "Gilford",
+                    "state": "New Hampshire",
+                    "stateCode": "NH",
+                    "coords": {
+                        "lat": 43.5475771,
+                        "long": -71.4067385
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-usa-3bd4b0fc.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Perennial"
+                            },
+                            {
+                                "name": "Call Me a Symbol"
+                            },
+                            {
+                                "name": "Vortex"
+                            },
+                            {
+                                "name": "I Speak Astronomy"
+                            },
+                            {
+                                "name": "Copycat"
+                            },
+                            {
+                                "name": "As I Boil Ice"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/jinjer/2023/bank-of-new-hampshire-pavilion-at-meadowbrook-gilford-nh-6ba5327a.html"
+        }
+    ]
+}

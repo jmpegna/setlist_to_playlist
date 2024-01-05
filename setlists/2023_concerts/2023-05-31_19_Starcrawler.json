@@ -1,0 +1,86 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "13a6a5c9",
+            "versionId": "g1b92d5f8",
+            "eventDate": "03-06-2023",
+            "lastUpdated": "2023-06-03T23:36:21.818+0000",
+            "artist": {
+                "mbid": "6c11309a-264e-4d39-a4c6-6f028c6da747",
+                "name": "Starcrawler",
+                "sortName": "Starcrawler",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/starcrawler-6bccea4a.html"
+            },
+            "venue": {
+                "id": "43d27b7b",
+                "name": "Franklin Music Hall",
+                "city": {
+                    "id": "4560349",
+                    "name": "Philadelphia",
+                    "state": "Pennsylvania",
+                    "stateCode": "PA",
+                    "coords": {
+                        "lat": 39.952335,
+                        "long": -75.163789
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/franklin-music-hall-philadelphia-pa-usa-43d27b7b.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Goodtime Girl"
+                            },
+                            {
+                                "name": "Roadkill"
+                            },
+                            {
+                                "name": "I Love LA"
+                            },
+                            {
+                                "name": "Stranded"
+                            },
+                            {
+                                "name": "Pet Sematary",
+                                "cover": {
+                                    "mbid": "d6ed7887-a401-47a8-893c-34b967444d26",
+                                    "name": "Ramones",
+                                    "sortName": "Ramones",
+                                    "disambiguation": "US punk rock band",
+                                    "url": "https://www.setlist.fm/setlists/ramones-13d6a5cd.html"
+                                }
+                            },
+                            {
+                                "name": "She Said"
+                            },
+                            {
+                                "name": "Used to Know"
+                            },
+                            {
+                                "name": "Different Angles"
+                            },
+                            {
+                                "name": "Train"
+                            },
+                            {
+                                "name": "Bet My Brains"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/starcrawler/2023/franklin-music-hall-philadelphia-pa-13a6a5c9.html"
+        }
+    ]
+}

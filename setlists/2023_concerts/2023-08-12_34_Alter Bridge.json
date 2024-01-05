@@ -1,0 +1,103 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "43a5af67",
+            "versionId": "g53991319",
+            "eventDate": "12-08-2023",
+            "lastUpdated": "2023-09-08T14:44:08.906+0000",
+            "artist": {
+                "mbid": "60a23fda-a440-4ab9-a344-7dfdd2ed341a",
+                "name": "Alter Bridge",
+                "sortName": "Alter Bridge",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/alter-bridge-53d687cd.html"
+            },
+            "venue": {
+                "id": "2bd08096",
+                "name": "Premier Theater at Foxwoods",
+                "city": {
+                    "id": "cu:aa1993be-06c7-11e6-b736-22000bb3106b",
+                    "name": "Mashantucket",
+                    "state": "Connecticut",
+                    "stateCode": "CT",
+                    "coords": {
+                        "lat": 41.4703,
+                        "long": -71.9515
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/premier-theater-at-foxwoods-mashantucket-ct-usa-2bd08096.html"
+            },
+            "tour": {
+                "name": "Pawns & Kings"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Silver Tongue"
+                            },
+                            {
+                                "name": "Addicted to Pain"
+                            },
+                            {
+                                "name": "Come to Life"
+                            },
+                            {
+                                "name": "Broken Wings",
+                                "info": ""
+                            },
+                            {
+                                "name": "Burn It Down",
+                                "info": "Mark Tremonti on lead vocals"
+                            },
+                            {
+                                "name": "Cry of Achilles"
+                            },
+                            {
+                                "name": "Watch Over You",
+                                "info": "Myles Kennedy solo acoustic"
+                            },
+                            {
+                                "name": "In Loving Memory",
+                                "info": "Myles w/ Mark on Acoustic"
+                            },
+                            {
+                                "name": "Blackbird"
+                            },
+                            {
+                                "name": "Isolation"
+                            },
+                            {
+                                "name": "Metalingus"
+                            },
+                            {
+                                "name": "Open Your Eyes"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Fable of the Silent Son"
+                            },
+                            {
+                                "name": "Rise Today"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/alter-bridge/2023/premier-theater-at-foxwoods-mashantucket-ct-43a5af67.html"
+        }
+    ]
+}

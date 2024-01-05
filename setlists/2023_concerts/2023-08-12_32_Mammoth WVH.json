@@ -1,0 +1,76 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "43a5af5b",
+            "versionId": "g238c9cc3",
+            "eventDate": "12-08-2023",
+            "lastUpdated": "2023-11-29T21:33:22.207+0000",
+            "artist": {
+                "mbid": "49a6efb9-9b52-44ce-8167-7cb1c21a8c45",
+                "name": "Mammoth WVH",
+                "sortName": "Mammoth WVH",
+                "disambiguation": "Wolfgang van Halen",
+                "url": "https://www.setlist.fm/setlists/mammoth-wvh-bf43142.html"
+            },
+            "venue": {
+                "id": "2bd08096",
+                "name": "Premier Theater at Foxwoods",
+                "city": {
+                    "id": "cu:aa1993be-06c7-11e6-b736-22000bb3106b",
+                    "name": "Mashantucket",
+                    "state": "Connecticut",
+                    "stateCode": "CT",
+                    "coords": {
+                        "lat": 41.4703,
+                        "long": -71.9515
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/premier-theater-at-foxwoods-mashantucket-ct-usa-2bd08096.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Mammoth"
+                            },
+                            {
+                                "name": "Epiphany"
+                            },
+                            {
+                                "name": "I'm Alright"
+                            },
+                            {
+                                "name": "Like a Pastime"
+                            },
+                            {
+                                "name": "Take a Bow"
+                            },
+                            {
+                                "name": "Distance"
+                            },
+                            {
+                                "name": "You're to Blame"
+                            },
+                            {
+                                "name": "Another Celebration at the End of the World"
+                            },
+                            {
+                                "name": "Don't Back Down"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/mammoth-wvh/2023/premier-theater-at-foxwoods-mashantucket-ct-43a5af5b.html"
+        }
+    ]
+}

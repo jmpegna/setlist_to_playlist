@@ -1,0 +1,64 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "7bbbaec8",
+            "versionId": "g43eaf7cf",
+            "eventDate": "13-03-2023",
+            "lastUpdated": "2023-03-15T13:14:31.994+0000",
+            "artist": {
+                "mbid": "efb33f5c-f56b-49bb-b5f9-87afd3e01abc",
+                "name": "Housewife",
+                "sortName": "Housewife",
+                "disambiguation": "Toronto-based duo",
+                "url": "https://www.setlist.fm/setlists/housewife-3bfca4f0.html"
+            },
+            "venue": {
+                "id": "1bd4652c",
+                "name": "Riviera Theatre",
+                "city": {
+                    "id": "4887398",
+                    "name": "Chicago",
+                    "state": "Illinois",
+                    "stateCode": "IL",
+                    "coords": {
+                        "lat": 41.850033,
+                        "long": -87.6500523
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/riviera-theatre-chicago-il-usa-1bd4652c.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Bones"
+                            },
+                            {
+                                "name": "Awful People"
+                            },
+                            {
+                                "name": "New Girl"
+                            },
+                            {
+                                "name": "Fuck around phase"
+                            },
+                            {
+                                "name": "Patrick Bateman"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/housewife/2023/riviera-theatre-chicago-il-7bbbaec8.html"
+        }
+    ]
+}

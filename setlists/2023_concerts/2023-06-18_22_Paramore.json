@@ -1,0 +1,121 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "53a623cd",
+            "versionId": "g4b99277a",
+            "eventDate": "18-06-2023",
+            "lastUpdated": "2023-09-07T19:54:33.347+0000",
+            "artist": {
+                "mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+                "name": "Paramore",
+                "sortName": "Paramore",
+                "disambiguation": "American pop rock band",
+                "url": "https://www.setlist.fm/setlists/paramore-1bd6d1c4.html"
+            },
+            "venue": {
+                "id": "2bd6181e",
+                "name": "Great Stage Park",
+                "city": {
+                    "id": "4639224",
+                    "name": "Manchester",
+                    "state": "Tennessee",
+                    "stateCode": "TN",
+                    "coords": {
+                        "lat": 35.4817432,
+                        "long": -86.0885993
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/great-stage-park-manchester-tn-usa-2bd6181e.html"
+            },
+            "tour": {
+                "name": "Paramore in North America"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Grey Area (Note To Self)",
+                                "tape": true,
+                                "info": ""
+                            },
+                            {
+                                "name": "You First"
+                            },
+                            {
+                                "name": "That's What You Get"
+                            },
+                            {
+                                "name": "Caught in the Middle"
+                            },
+                            {
+                                "name": "Rose-Colored Boy",
+                                "info": "With snippets of Whitney Houston's \"I Wanna Dance With Somebody & Tom Tom Club's \"Genius of Love\""
+                            },
+                            {
+                                "name": "Running Out of Time"
+                            },
+                            {
+                                "name": "Last Hope"
+                            },
+                            {
+                                "name": "Hard Times",
+                                "info": "Includes snippets of Blondie's \"Heart of Glass\""
+                            },
+                            {
+                                "name": "Baby",
+                                "cover": {
+                                    "mbid": "c01f0801-5fb1-4e84-9cfc-6ca3182d9241",
+                                    "name": "HalfNoise",
+                                    "sortName": "HalfNoise",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/halfnoise-43d8530f.html"
+                                }
+                            },
+                            {
+                                "name": "Crystal Clear",
+                                "cover": {
+                                    "mbid": "b4b5b5a7-feff-47d0-9458-83d0d135a692",
+                                    "name": "Hayley Williams",
+                                    "sortName": "Williams, Hayley",
+                                    "disambiguation": "Paramore vocalist",
+                                    "url": "https://www.setlist.fm/setlists/hayley-williams-5bd60b38.html"
+                                }
+                            },
+                            {
+                                "name": "All I Wanted"
+                            },
+                            {
+                                "name": "Figure 8"
+                            },
+                            {
+                                "name": "Misery Business"
+                            },
+                            {
+                                "name": "Ain't It Fun",
+                                "info": "Dedicated to a fan in barricade for their 34th birthday"
+                            },
+                            {
+                                "name": "Still Into You",
+                                "info": "Dedicated to Paramore"
+                            },
+                            {
+                                "name": "This Is Why"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "info": "Soundcheck: 'Caught in the Middle', 'You First', and 'Rose-Colored Boy'",
+            "url": "https://www.setlist.fm/setlist/paramore/2023/great-stage-park-manchester-tn-53a623cd.html"
+        }
+    ]
+}

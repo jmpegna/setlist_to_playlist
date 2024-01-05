@@ -1,0 +1,108 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "bbd6dca",
+            "versionId": "g1befa90c",
+            "eventDate": "08-02-2023",
+            "lastUpdated": "2023-02-10T03:33:11.942+0000",
+            "artist": {
+                "mbid": "60a23fda-a440-4ab9-a344-7dfdd2ed341a",
+                "name": "Alter Bridge",
+                "sortName": "Alter Bridge",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/alter-bridge-53d687cd.html"
+            },
+            "venue": {
+                "id": "33d038d5",
+                "name": "Roadrunner",
+                "city": {
+                    "id": "4930956",
+                    "name": "Boston",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.3584308,
+                        "long": -71.0597732
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/roadrunner-boston-ma-usa-33d038d5.html"
+            },
+            "tour": {
+                "name": "Pawns & Kings"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Silver Tongue"
+                            },
+                            {
+                                "name": "Addicted to Pain"
+                            },
+                            {
+                                "name": "Ghost of Days Gone By"
+                            },
+                            {
+                                "name": "Before Tomorrow Comes"
+                            },
+                            {
+                                "name": "Sin After Sin"
+                            },
+                            {
+                                "name": "Burn It Down",
+                                "info": "Vocals: Mark Tremonti"
+                            },
+                            {
+                                "name": "Cry of Achilles"
+                            },
+                            {
+                                "name": "Watch Over You",
+                                "info": "Acoustic"
+                            },
+                            {
+                                "name": "In Loving Memory",
+                                "info": "Acoustic"
+                            },
+                            {
+                                "name": "Blackbird"
+                            },
+                            {
+                                "name": "Pawns & Kings"
+                            },
+                            {
+                                "name": "Stay"
+                            },
+                            {
+                                "name": "Isolation"
+                            },
+                            {
+                                "name": "Metalingus"
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Broken Wings"
+                            },
+                            {
+                                "name": "Rise Today"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/alter-bridge/2023/roadrunner-boston-ma-bbd6dca.html"
+        }
+    ]
+}

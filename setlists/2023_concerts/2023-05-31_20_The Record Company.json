@@ -1,0 +1,73 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "53b9573d",
+            "versionId": "g6b92a2b2",
+            "eventDate": "31-05-2023",
+            "lastUpdated": "2023-06-01T03:03:26.866+0000",
+            "artist": {
+                "mbid": "609295c8-5587-4c22-b354-a40e71ddcf62",
+                "name": "The Record Company",
+                "sortName": "Record Company, The",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/the-record-company-33db5865.html"
+            },
+            "venue": {
+                "id": "53d63bdd",
+                "name": "The Palladium",
+                "city": {
+                    "id": "4956184",
+                    "name": "Worcester",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.2625932,
+                        "long": -71.8022934
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/the-palladium-worcester-ma-usa-53d63bdd.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "On the Move"
+                            },
+                            {
+                                "name": "Baby I'm Broken"
+                            },
+                            {
+                                "name": "Roll With It"
+                            },
+                            {
+                                "name": "Rita Mae Young"
+                            },
+                            {
+                                "name": "How High"
+                            },
+                            {
+                                "name": "Off the Ground"
+                            },
+                            {
+                                "name": "Life to Fix"
+                            },
+                            {
+                                "name": "I'm Getting Better (And I'm Feeling It Right Now)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/the-record-company/2023/the-palladium-worcester-ma-53b9573d.html"
+        }
+    ]
+}

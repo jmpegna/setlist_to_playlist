@@ -1,0 +1,93 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "53b97fa9",
+            "versionId": "g63956267",
+            "eventDate": "26-05-2023",
+            "lastUpdated": "2023-05-29T11:06:33.873+0000",
+            "artist": {
+                "mbid": "e8374874-4178-4869-b92e-fef6bf30dc04",
+                "name": "Dropkick Murphys",
+                "sortName": "Dropkick Murphys",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/dropkick-murphys-63d6d2b7.html"
+            },
+            "venue": {
+                "id": "7bd54e38",
+                "name": "Harvard Athletic Complex",
+                "city": {
+                    "id": "4930956",
+                    "name": "Boston",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.3584308,
+                        "long": -71.0597732
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/harvard-athletic-complex-boston-ma-usa-7bd54e38.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "The Foggy Dew",
+                                "tape": true
+                            },
+                            {
+                                "name": "The Boys Are Back"
+                            },
+                            {
+                                "name": "Middle Finger"
+                            },
+                            {
+                                "name": "Queen of Suffolk County"
+                            },
+                            {
+                                "name": "The State of Massachusetts"
+                            },
+                            {
+                                "name": "Barroom Hero"
+                            },
+                            {
+                                "name": "Cadillac, Cadillac"
+                            },
+                            {
+                                "name": "Gotta Get to Peekskill"
+                            },
+                            {
+                                "name": "Two 6's Upside Down"
+                            },
+                            {
+                                "name": "Good as Gold"
+                            },
+                            {
+                                "name": "Rose Tattoo",
+                                "info": "Lyric referencing the Boston Bruins changed to reference the Celtics"
+                            },
+                            {
+                                "name": "Worker's Song"
+                            },
+                            {
+                                "name": "Skinhead on the MBTA"
+                            },
+                            {
+                                "name": "I'm Shipping Up to Boston"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/dropkick-murphys/2023/harvard-athletic-complex-boston-ma-53b97fa9.html"
+        }
+    ]
+}

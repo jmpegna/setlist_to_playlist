@@ -1,0 +1,183 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "5ba5cbb8",
+            "versionId": "g439be773",
+            "eventDate": "19-08-2023",
+            "lastUpdated": "2023-08-20T13:23:41.625+0000",
+            "artist": {
+                "mbid": "1355d559-f13f-4c78-a7a8-02b6d747d94e",
+                "name": "Lou Gramm",
+                "sortName": "Gramm, Lou",
+                "disambiguation": "American rock singer-songwriter; Black Sheep, Foreigner & Shadow King",
+                "url": "https://www.setlist.fm/setlists/lou-gramm-bd6b57e.html"
+            },
+            "venue": {
+                "id": "6bd526ba",
+                "name": "Fowler Field Main Stage",
+                "city": {
+                    "id": "4838652",
+                    "name": "Milford",
+                    "state": "Connecticut",
+                    "stateCode": "CT",
+                    "coords": {
+                        "lat": 41.2223194,
+                        "long": -73.0564953
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/fowler-field-main-stage-milford-ct-usa-6bd526ba.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Feels Like the First Time",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            },
+                            {
+                                "name": "Double Vision",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            },
+                            {
+                                "name": "Long, Long Way From Home",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            },
+                            {
+                                "name": "Just Between You and Me"
+                            },
+                            {
+                                "name": "Blue Morning, Blue Day",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            },
+                            {
+                                "name": "Cold as Ice",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            },
+                            {
+                                "name": "Drum Solo"
+                            },
+                            {
+                                "name": "Midnight Blue"
+                            },
+                            {
+                                "name": "That Was Yesterday",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            },
+                            {
+                                "name": "Head Games",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            },
+                            {
+                                "name": "Waiting for a Girl Like You",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            },
+                            {
+                                "name": "Urgent",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            },
+                            {
+                                "name": "I Want to Know What Love Is",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Juke Box Hero",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            },
+                            {
+                                "name": "Hot Blooded",
+                                "cover": {
+                                    "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+                                    "name": "Foreigner",
+                                    "sortName": "Foreigner",
+                                    "disambiguation": "British/American rock band",
+                                    "url": "https://www.setlist.fm/setlists/foreigner-73d6be39.html"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/lou-gramm/2023/fowler-field-main-stage-milford-ct-5ba5cbb8.html"
+        }
+    ]
+}

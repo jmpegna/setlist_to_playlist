@@ -1,0 +1,229 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "3ba218b0",
+            "versionId": "g73865229",
+            "eventDate": "15-09-2023",
+            "lastUpdated": "2023-09-18T16:11:18.486+0000",
+            "artist": {
+                "mbid": "c3649208-0ebe-449b-b1d7-4bd6c560f109",
+                "name": "John Fogerty",
+                "sortName": "Fogerty, John",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/john-fogerty-53d63fc1.html"
+            },
+            "venue": {
+                "id": "43d3ef5b",
+                "name": "The Big E Arena",
+                "city": {
+                    "id": "4955089",
+                    "name": "West Springfield",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.1070383,
+                        "long": -72.6203675
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/the-big-e-arena-west-springfield-ma-usa-43d3ef5b.html"
+            },
+            "tour": {
+                "name": "The Celebration Tour"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Bad Moon Rising",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Up Around the Bend",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Green River",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Born on the Bayou",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Who'll Stop the Rain",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Lookin' Out My Back Door",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Rock and Roll Girls"
+                            },
+                            {
+                                "name": "Fight Fire",
+                                "cover": {
+                                    "mbid": "9cfe894e-9fbf-4d24-a8fb-2b0164d0a7cc",
+                                    "name": "The Golliwogs",
+                                    "sortName": "Golliwogs, The",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/the-golliwogs-3bd65414.html"
+                                }
+                            },
+                            {
+                                "name": "Lodi",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Run Through the Jungle",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Effigy",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Joy of My Life"
+                            },
+                            {
+                                "name": "Keep On Chooglin'",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Have You Ever Seen the Rain?",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Centerfield"
+                            },
+                            {
+                                "name": "Down on the Corner",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "The Old Man Down the Road"
+                            },
+                            {
+                                "name": "Fortunate Son",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "encore": 1,
+                        "song": [
+                            {
+                                "name": "Travelin' Band",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            },
+                            {
+                                "name": "Proud Mary",
+                                "cover": {
+                                    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+                                    "name": "Creedence Clearwater Revival",
+                                    "sortName": "Creedence Clearwater Revival",
+                                    "disambiguation": "",
+                                    "url": "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/john-fogerty/2023/the-big-e-arena-west-springfield-ma-3ba218b0.html"
+        }
+    ]
+}

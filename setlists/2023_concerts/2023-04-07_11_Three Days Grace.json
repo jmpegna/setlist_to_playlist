@@ -1,0 +1,82 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "3bbb6020",
+            "versionId": "g53961bb9",
+            "eventDate": "07-04-2023",
+            "lastUpdated": "2023-04-28T02:18:37.714+0000",
+            "artist": {
+                "mbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
+                "name": "Three Days Grace",
+                "sortName": "Three Days Grace",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/three-days-grace-33d6bcd9.html"
+            },
+            "venue": {
+                "id": "bd059be",
+                "name": "Total Mortgage Arena",
+                "city": {
+                    "id": "5282804",
+                    "name": "Bridgeport",
+                    "state": "Connecticut",
+                    "stateCode": "CT",
+                    "coords": {
+                        "lat": 41.1670412,
+                        "long": -73.2048348
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/total-mortgage-arena-bridgeport-ct-usa-bd059be.html"
+            },
+            "tour": {
+                "name": "Explosions Tour"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "So Called Life"
+                            },
+                            {
+                                "name": "I Am Machine"
+                            },
+                            {
+                                "name": "Animal I Have Become"
+                            },
+                            {
+                                "name": "Pain"
+                            },
+                            {
+                                "name": "The Good Life"
+                            },
+                            {
+                                "name": "Home"
+                            },
+                            {
+                                "name": "I Hate Everything About You"
+                            },
+                            {
+                                "name": "Painkiller"
+                            },
+                            {
+                                "name": "Never Too Late"
+                            },
+                            {
+                                "name": "Riot"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/three-days-grace/2023/total-mortgage-arena-bridgeport-ct-3bbb6020.html"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "63a13e03",
+            "versionId": "g438e377b",
+            "eventDate": "15-11-2023",
+            "lastUpdated": "2023-11-16T06:09:56.641+0000",
+            "artist": {
+                "mbid": "e73db0bc-22eb-4589-9c6b-f35ad14f5647",
+                "name": "Nita Strauss",
+                "sortName": "Strauss, Nita",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/nita-strauss-3da1157.html"
+            },
+            "venue": {
+                "id": "53d3eb01",
+                "name": "Big Night Live",
+                "city": {
+                    "id": "4930956",
+                    "name": "Boston",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.3584308,
+                        "long": -71.0597732
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/big-night-live-boston-ma-usa-53d3eb01.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Summer Storm"
+                            },
+                            {
+                                "name": "Our Most Desperate Hour"
+                            },
+                            {
+                                "name": "Mariana Trench"
+                            },
+                            {
+                                "name": "Alegria"
+                            },
+                            {
+                                "name": "The Quest",
+                                "info": "Incl. drum solo"
+                            },
+                            {
+                                "name": "The Wolf You Feed"
+                            },
+                            {
+                                "name": "Through the Noise"
+                            },
+                            {
+                                "name": "Dead Inside"
+                            },
+                            {
+                                "name": "Victorious"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/nita-strauss/2023/big-night-live-boston-ma-63a13e03.html"
+        }
+    ]
+}

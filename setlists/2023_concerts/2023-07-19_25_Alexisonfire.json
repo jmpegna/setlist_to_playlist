@@ -1,0 +1,76 @@
+{
+    "type": "setlists",
+    "itemsPerPage": 20,
+    "page": 1,
+    "total": 1,
+    "setlist": [
+        {
+            "id": "3a745c7",
+            "versionId": "g4b9f77da",
+            "eventDate": "19-07-2023",
+            "lastUpdated": "2023-07-20T17:19:08.791+0000",
+            "artist": {
+                "mbid": "bc1c8f3f-6f36-4086-a470-87ed813dd429",
+                "name": "Alexisonfire",
+                "sortName": "Alexisonfire",
+                "disambiguation": "",
+                "url": "https://www.setlist.fm/setlists/alexisonfire-1bd699dc.html"
+            },
+            "venue": {
+                "id": "4bd4e71a",
+                "name": "Xfinity Center",
+                "city": {
+                    "id": "4943021",
+                    "name": "Mansfield",
+                    "state": "Massachusetts",
+                    "stateCode": "MA",
+                    "coords": {
+                        "lat": 42.0334326,
+                        "long": -71.2189405
+                    },
+                    "country": {
+                        "code": "US",
+                        "name": "United States"
+                    }
+                },
+                "url": "https://www.setlist.fm/venue/xfinity-center-mansfield-ma-usa-4bd4e71a.html"
+            },
+            "sets": {
+                "set": [
+                    {
+                        "song": [
+                            {
+                                "name": "Sweet Dreams of Otherness"
+                            },
+                            {
+                                "name": "Boiled Frogs"
+                            },
+                            {
+                                "name": "Sans Soleil"
+                            },
+                            {
+                                "name": "Young Cardinals"
+                            },
+                            {
+                                "name": "Blue Spade"
+                            },
+                            {
+                                "name": "Familiar Drugs"
+                            },
+                            {
+                                "name": "The Northern"
+                            },
+                            {
+                                "name": "Dog's Blood"
+                            },
+                            {
+                                "name": "This Could Be Anywhere in the World"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "url": "https://www.setlist.fm/setlist/alexisonfire/2023/xfinity-center-mansfield-ma-3a745c7.html"
+        }
+    ]
+}
